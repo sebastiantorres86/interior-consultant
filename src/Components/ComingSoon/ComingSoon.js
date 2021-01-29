@@ -1,5 +1,5 @@
 import React from "react";
-import image from "../../Assets/ComingSoon.svg";
+import image from "../../assets/ComingSoon.svg";
 import { Div, Image } from "./ComingSoon.styled";
 
 const ComingSoon = () => {
