@@ -1,8 +1,8 @@
 import React from "react";
 import { Container, Row, Column, ColumnImage, Image } from "./Main.styled";
 import { Link } from "react-router-dom";
-import Image1 from "../../Assets/photo1.png";
-import Avatar from "../../Assets/photo2.png";
+import Image1 from "../../assets/photo1.png";
+import Avatar from "../../assets/photo2.png";
 import Card from "../Card";
 
 const Main = () => {
